@@ -1,4 +1,4 @@
-# 湖南财政经济学院
+# 湖南财政经济大学
 ## HUNAN UNIVERSITY OF FINANCE AND ECONOMICS
 
 欢迎访问湖南财政经济学院 GitHub 组织主页。
